@@ -7,7 +7,7 @@ menu:
     name: Adding New Section
     identifier: customizing-add-new-section
     parent: customizing
-    weight: 10
+    weight: 410
 ---
 
 ## Coming soon.......
