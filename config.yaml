@@ -1,4 +1,4 @@
-baseURL: https://toha.netlify.app
+baseURL: https://chaman.netlify.app
 
 languageCode: en-us
 title: "Chaman"
@@ -22,10 +22,10 @@ enableEmoji: true
 # Custom parameters
 params:
   # background image of the landing page
-  background: "images/background.jpg"
+  background: "images/website_background.jpg"
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/toha-example-site
+  gitRepo: https://github.com/professorchaman/chaman.github.io
 
   # specify whether you want to write blog post or not
   enableBlogPost: true
@@ -34,18 +34,18 @@ params:
   # they will be separated by a divider from the main menus.
   customMenus:
   - name: Notes
-    url: https://hossainnotes.netlify.app/docs/example/
+    url: <Need to add a link here>
 
   # some information about you
   author:
-    name: "Jane Doe"
-    image: "images/avatar.png"
+    name: "Chaman Gupta"
+    image: "images/myAvatar.png"
     # give your some contact information. they will be used in the footer
     contactInfo:
-      email: "janedoe@example.com"
-      phone: "+0123456789"
+      email: "chaman@uw.edu"
+      phone: "+12063833514"
     # a summary of what you do
     summary:
-    - I am a Developer
-    - I work with Go
-    - I love to work with some fun projects
+    - Stay Happy
+    - Stay Awesome
+    - Peace is the mission
