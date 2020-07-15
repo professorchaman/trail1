@@ -1,7 +1,7 @@
 baseURL: https://toha.netlify.app
 
 languageCode: en-us
-title: "Toha"
+title: "Chaman"
 theme: "toha"
 
 # Allow raw html in markdown file
